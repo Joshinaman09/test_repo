@@ -21,3 +21,6 @@ def functionD(c,d):
 
 def function(a1,b2):
     print('new')
+
+def functionR(a2,b2):
+    print('new')
