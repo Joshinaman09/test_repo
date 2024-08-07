@@ -18,3 +18,6 @@ def functionC(a,b):
 
 def functionD(c,d):
     print('new2')
+
+def function(a1,b2):
+    print('new')
