@@ -14,3 +14,7 @@ def new_comment(e,f):
         print('done')
 def functionC(a,b):
     print('new')
+
+
+def functionD(c,d):
+    print('new2')
