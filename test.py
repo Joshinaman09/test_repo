@@ -12,3 +12,15 @@ def new_comment(e,f):
         print("second comment")
     else:
         print('done')
+def functionC(a,b):
+    print('new')
+
+
+def functionD(c,d):
+    print('new2')
+
+def function(a1,b2):
+    print('new')
+
+def functionR(a2,b2):
+    print('new')
